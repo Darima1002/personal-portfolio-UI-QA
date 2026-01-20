@@ -15,7 +15,7 @@ The design focuses on:
 # Live Figma Prototype
 
 👉 View the interactive prototype here:
-[https://www.figma.com/proto/u1zHuiqiDYwNpRhooMwgyo/DD-Personal-portfolio](https://www.figma.com/proto/u1zHuiqiDYwNpRhooMwgyo/DD-Personal-portfolio)
+https://www.figma.com/proto/u1zHuiqiDYwNpRhooMwgyo/DD-Personal-portfolio?node-id=31-97&t=kW6j2PiDiP1rae2c-1&scaling=min-zoom&content-scaling=fixed&page-id=3%3A5869&starting-point-node-id=31%3A97
 
 
 ## Project Scope
