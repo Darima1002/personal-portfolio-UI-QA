@@ -27,7 +27,7 @@ https://www.figma.com/proto/u1zHuiqiDYwNpRhooMwgyo/DD-Personal-portfolio?node-id
 
 ## Tools Used
 
--Figma - UI/UX design and prototyping
+- Figma - UI/UX design and prototyping
 - Manual QA Testing – UI and usability validation
 - GitHub – Documentation and version control
 
@@ -40,8 +40,6 @@ Although this is a design prototype, basic QA and usability principles were appl
 - Readability and contrast review
 - Exploratory usability review from a user perspective
 
----
-
 ## Purpose
 
 This project was created as part of my learning and portfolio development to demonstrate:
@@ -49,8 +47,6 @@ This project was created as part of my learning and portfolio development to dem
 - UI/UX design fundamentals
 - Attention to detail
 - Ability to think from both designer and QA tester perspectives
-
----
 
 ## Notes
 
