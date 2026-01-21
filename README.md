@@ -1,9 +1,9 @@
-# Personal Portfolio – UI/UX Design Project (Figma)
+# UI/UX Design Project (Figma)
 
 ## Overview
 
 This project is a personal portfolio UI/UX prototype designed in Figma.
-The goal was to create a clean, simple and user-friendly layout to showcase personal information, skills and projects.
+The goal was to create a clean, simple and user-friendly layout to showcase personal information and some projects.
 
 The design focuses on:
 
@@ -14,7 +14,7 @@ The design focuses on:
 
 # Live Figma Prototype
 
-👉 View the interactive prototype here:
+View the interactive prototype:
 https://www.figma.com/proto/u1zHuiqiDYwNpRhooMwgyo/DD-Personal-portfolio?node-id=31-97&t=kW6j2PiDiP1rae2c-1&scaling=min-zoom&content-scaling=fixed&page-id=3%3A5869&starting-point-node-id=31%3A97
 
 
@@ -23,7 +23,6 @@ https://www.figma.com/proto/u1zHuiqiDYwNpRhooMwgyo/DD-Personal-portfolio?node-id
 - Personal portfolio website concept
 - Desktop-first design
 - Emphasis on clarity and simplicity
-- Structured sections for content presentation
 
 ## Tools Used
 
@@ -43,10 +42,9 @@ Although this is a design prototype, basic QA and usability principles were appl
 ## Purpose
 
 This project was created as part of my learning and portfolio development to demonstrate:
-
 - UI/UX design fundamentals
 - Attention to detail
-- Ability to think from both designer and QA tester perspectives
+- Ability to think from designer perspectives
 
 ## Notes
 
